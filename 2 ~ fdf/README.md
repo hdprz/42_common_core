@@ -1,8 +1,8 @@
 # fdf
 
 <p align="center">
- <img width="400" height="235" alt="Screenshot from 2025-07-25 17-04-09" src="https://github.com/user-attachments/assets/b34b4129-dd65-4be5-b7a4-dae1bad7b2d3" />
- <img width="400" height="235" alt="Screenshot from 2025-07-25 17-02-07" src="https://github.com/user-attachments/assets/87a1a00f-a16a-4f2f-904e-b257ffbacf79" />
+ <img width="503" height="295" alt="Screenshot from 2025-07-25 17-04-09" src="https://github.com/user-attachments/assets/b34b4129-dd65-4be5-b7a4-dae1bad7b2d3" />
+ <img width="503" height="295" alt="Screenshot from 2025-07-25 17-02-07" src="https://github.com/user-attachments/assets/87a1a00f-a16a-4f2f-904e-b257ffbacf79" />
 </p>
 
 The ***fdf*** (Fil de Fer) project is a 42 graphics assignment where I created a 3D wireframe renderer using C and the **MiniLibX graphics library**. The core objective was to take a map file containing elevation data and transform it into an interactive 3D visualization, implementing various projections and transformations.
