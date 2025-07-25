@@ -3,6 +3,11 @@
 >[!NOTE]
 > Group project done with [@hhecquet](https://github.com/hhecquet)
 
+<p align="center">
+  <img width="400" height="282" alt="maze" src="https://github.com/user-attachments/assets/e0d76d9f-fa95-441e-945f-208941e687eb" />
+  <img width="400" height="282" alt="simple" src="https://github.com/user-attachments/assets/7d9c0726-df5b-4d3f-bbe7-49bc995b7696" />
+</p>
+
 The ***cub3d*** project is a 42 graphics and game engine assignment where I created a basic 3D first-person perspective game using **raycasting**, inspired by early games like **Wolfenstein 3D**. The core goal was to render a 3D environment from a 2D map, with textures, player movement, and basic interactions — all built from scratch using C and the **MiniLibX graphics library**.
 This project introduced me to the principles of raycasting, game loops, and real-time rendering, while also reinforcing low-level graphics programming skills.
 
@@ -41,10 +46,4 @@ What I Learned:
 * Working with low-level graphic libraries like MiniLibX
 
 Cub3D was a true milestone in my C journey — combining mathematics, graphics, and real-time logic. Implementing full collision detection made the game feel polished and taught me how much fine-tuning goes into even the simplest game mechanics.
-
-<p align="center">
-  <img width="400" height="282" alt="maze" src="https://github.com/user-attachments/assets/e0d76d9f-fa95-441e-945f-208941e687eb" />
-  <img width="400" height="282" alt="simple" src="https://github.com/user-attachments/assets/7d9c0726-df5b-4d3f-bbe7-49bc995b7696" />
-</p>
-
 > And yes, that's our cat in the rendering
