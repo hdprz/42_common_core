@@ -1,5 +1,6 @@
 # minishell
 
+>[!NOTE]
 > Group project done with [@hhecquet](https://github.com/hhecquet)
 
 The ***minishell*** project is a crucial 42 assignment where we built a basic shell program similar to bash. This project deepened our understanding of processes, file descriptors, and command interpretation in Unix systems. The goal was to create a functional command-line interface that could handle basic shell operations while managing complex scenarios like pipes and redirections.
