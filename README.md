@@ -12,23 +12,23 @@ In each folder you will find information about the specified projects and visual
 
 <div align="center">
 
-| Project | Description | Status |
-|----------|-------------|--------|
-| Libft | C library with basic functions | ✅ |
-| ft_printf | Recreation of printf function | ✅ |
-| get_next_line | Function to read file line by line | ✅ |
-| Born2beroot | System administration | ✅ |
-| FdF | 3D Wireframe renderer | ✅ |
-| minitalk | UNIX signals communication | ✅ |
-| push_swap | Stack sorting algorithm | ✅ |
-| minishell | Simple shell implementation | ✅ |
-| Philosophers | Threading and process synchronization | ✅ |
-| NetPractice | Network configuration | ✅ |
-| cub3d | Raycasting game engine | ✅ |
-| CPP Modules (00-09) | C++ programming modules | ✅ |
-| inception | Docker containerization | ✅ |
-| ft_irc | Internet Relay Chat server | ✅ |
-| ft_transcendence | Online multiplayer Pong game | 🔄 |
+| Project | Milestone | Description | Status |
+|----------|-----------|-------------|--------|
+| libft | 0 | C library with basic functions | ✅ |
+| ft_printf | 1 | Recreation of printf function | ✅ |
+| get_next_line | 1 | Function to read file line by line | ✅ |
+| born2beroot | 1 | System administration | ✅ |
+| fdf | 2 | 3D Wireframe renderer | ✅ |
+| minitalk | 2 | UNIX signals communication | ✅ |
+| push_swap | 2 | Stack sorting algorithm | ✅ |
+| minishell | 3 | Simple shell implementation | ✅ |
+| philosophers | 3 | Threading and process synchronization | ✅ |
+| netPractice | 4 | Network configuration | ✅ |
+| cub3d | 4 | Raycasting game engine | ✅ |
+| CPP Modules (00-09) | 4 - 5 | C++ programming modules | ✅ |
+| inception | 5 | Docker containerization | ✅ |
+| ft_irc | 5 | Internet Relay Chat server | ✅ |
+| ft_transcendence | 6 | Online multiplayer Pong game | 🔄 |
 
 </div>
 
