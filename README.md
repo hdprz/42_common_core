@@ -8,7 +8,7 @@
 
 Are you still there ? Well, here you will find a portfolio of my work done during my common core at [42 Perpignan Occitanie](https://42perpignan.fr/).
 
-In each folder you will find information about the specified projects and visuals if the project has graphical elements to display.
+In each folder you will find information about the specified projects and visuals if the project has graphical elements to display (push_swap, fdf, cub3d).
 
 <div align="center">
 
